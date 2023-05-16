@@ -10,3 +10,4 @@ Array.prototype.unique = function() {
 };
 
 console.log[1,1,2,3].unique()
+  
